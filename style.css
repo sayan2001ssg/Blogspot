@@ -53,3 +53,13 @@ p{
 .btn-xl{
 	padding: 0.5rem 1rem;
 }
+
+.welcome{
+	color:grey;
+}
+
+.copyright{
+	color:white;
+	font-weight: 100;
+	text-transform: uppercase;
+}
