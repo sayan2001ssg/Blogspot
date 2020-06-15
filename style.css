@@ -34,14 +34,15 @@ p{
 }
 
 .btn{
-	font-weight: 700;
+	font-weight: 500;
 	border-radius: 300px;
 	text-transform: uppercase;
 }
 
 .btn-warning{
-	background-color: #F05F44;
-	border-color: #F05F44;
+	color:white;
+	background-color: blue;
+	border-color: blue;
 }
 
 .btn-warning:hover {
