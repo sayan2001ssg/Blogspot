@@ -39,6 +39,34 @@ hr{
   max-width: 65px;
 }
 
+ul{
+  padding: 0px 10px;
+}
+
+.btn{
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+
+.btn-warning{
+  color:white;
+  background-color: red;
+  border-color: red;
+}
+
+.btn-warning:hover {
+  color: white;
+  background-color: blue;
+  border-color: blue;
+  border-width: 3px;
+  transform: rotate(-5deg)
+}
+
+.btn-xl{
+  padding: 0.5rem 1rem;
+}
+
 .blog{
   color: white;
 }
