@@ -16,6 +16,11 @@ html {
 	font-size: 0.8em;
 }
 
+sticky{
+	position: fixed;
+	top=0;
+}
+
 li{
 	padding:10px;
 }
