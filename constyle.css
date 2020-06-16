@@ -59,13 +59,12 @@ ul{
   color: white;
   background-color: blue;
   border-color: blue;
-  border-width: 3px;
   transform: rotate(-5deg)
 }
 
 .btn-xl{
   padding: 0.5rem 1rem;
-  margin-bottom: 10px;  
+  margin-bottom: 4px;  
 }
 
 .blog{
