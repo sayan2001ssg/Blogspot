@@ -1,0 +1,84 @@
+/*START CSS STYLING OF index.html*/
+.abox
+{
+background-image:url(switzerland-862870_1920.jpg);
+height: 780px;
+/*background-attachment: fixed;*/
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+.bbox
+{
+margin-top: 80px; 
+margin-bottom: 80px;
+padding-bottom: 30px;
+padding-top: 40px; 
+text-shadow: 2px 2px 8px black;
+}
+.text1
+{
+font-size: 3rem;
+color: #e2dbdb;
+font-family: 'Montserrat', sans-serif;
+}
+.line1
+{
+border-color: #e2dbdb;
+border-width: 3px;
+max-width: 65px;
+}
+.welcome
+{
+color: antiquewhite;
+font-size: 18px;
+text-shadow: 2px 2px 8px black;
+font-family: 'Montserrat', sans-serif;
+}
+.btn-warning:hover 
+{
+background-color: red;
+border-color: red;
+font-weight: 700;
+font-family: 'Montserrat', sans-serif;
+}
+.btn-xl
+{
+padding: 0.5rem 1rem;
+}
+
+/*END CSS STYLING OF index.html*/
+
+
+
+/*START CSS STYLING OF contents.html*/
+.btn-danger:hover 
+{
+color: white;
+background-color: blue;
+border-color: blue;
+/*border-width: 2px;*/
+transform: rotate(-5deg)
+}
+
+.btn-xl,cbox
+{
+padding: 0.5rem 1rem;
+margin-bottom: 4px;
+border-color: antiquewhite;
+}
+/*END CSS STYLING OF contents.html*/
+
+
+
+/*START CSS STYLING OF story1.html*/
+.dbox
+{
+background-image:url(conback.jpg);
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+font-family: 'Montserrat', sans-serif;
+}
+/*END CSS STYLING OF story1.html*/
