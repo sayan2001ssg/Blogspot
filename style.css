@@ -75,6 +75,7 @@ border-color: antiquewhite;
 .dbox
 {
 background-image:url(conback.jpg);
+height: 775px;
 background-attachment: fixed;
 background-repeat: no-repeat;
 background-position: center;
